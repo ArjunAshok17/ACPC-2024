@@ -1,0 +1,23 @@
+median:
+	g++ -std=c++11 median.cpp -o median.out
+
+jump:
+	g++ -std=c++11 jump.cpp -o jump.out
+
+vada:
+	g++ -std=c++11 vada.cpp -o vada.out
+
+shot:
+	g++ -std=c++11 shot.cpp -o shot.out
+
+jar:
+	g++ -std=c++11 jar.cpp -o jar.out
+
+foundry_a:
+	g++ -std=c++11 foundry_a.cpp -o foundry_a.out
+
+foundry_b:
+	g++ -std=c++11 foundry_b.cpp -o foundry_b.out
+
+meeting:
+	g++ -std=c++11 meeting.cpp -o meeting.out
